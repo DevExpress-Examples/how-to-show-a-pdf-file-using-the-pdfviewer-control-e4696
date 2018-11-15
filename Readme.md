@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/PdfViewerSample/Form1.cs) (VB: [Form1.vb](./VB/PdfViewerSample/Form1.vb))
+<!-- default file list end -->
 # How to show a PDF file using the PdfViewer control
 
 
